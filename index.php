@@ -17,6 +17,7 @@ ingrese un numero
 $mostrar=$_POST['n'];
 
 echo $mostrar;
+
 ?>
 
 
